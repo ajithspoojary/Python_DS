@@ -9,6 +9,7 @@ python course
 
 '''
 print("Hello Github")
+print("Hi data Science")
 
 
 dict={}
