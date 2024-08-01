@@ -7,7 +7,6 @@ print("Data Science")
 print("Hello Github")
 print("Data Science")
 print("Hello Github")
-print("Data Science")
 
 
 
